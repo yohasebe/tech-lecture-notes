@@ -8,6 +8,6 @@
 
 ## 第7回授業
 
-[コミュニケーションとセキュリティ 参考資料](communication-and-security/sharing-common-key.ipynb)
+コミュニケーションとセキュリティ 参考資料
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yohasebe/tech-lecture-notes/blob/master/communication-and-security/sharing-common-key.ipynb)
