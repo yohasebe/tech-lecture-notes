@@ -14,12 +14,12 @@
 
 ## 第11回授業
 
-[Pythonプログラミング入門（Part 1）解答付](python-fandamentals/part-01.ipynb)
+Pythonプログラミング入門（Part 1）解答付
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yohasebe/tech-lecture-notes/blob/master/python-fandamentals/part-01.ipynb)
 
 ## 第12回授業
 
-[Pythonプログラミング入門（Part 2）解答付](python-fandamentals/part-02.ipynb)
+Pythonプログラミング入門（Part 2）解答付
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yohasebe/tech-lecture-notes/blob/master/python-fandamentals/part-02.ipynb)
